@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    font-family: D-DIN-Bold, Arial, Verdana, sans-serif;
+    background-color: black;
+}
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.container video{
+    display: block;
+}
+.container img{
+    display: block;
+}
+.nul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 400px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+.nav{
+    height: 38px;
+    position: absolute;
+}
+.nli{
+    float: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 12px;
+}
+.logo{
+    position: absolute;
+    width: auto;
+    height: 40px;
+    margin-left: 195px;
+    margin-top: 19px;
+}
+.nul2{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 36px;
+    font-size: 15px;
+    margin-left: 1550px;
+}
+.nli2{
+    text-decoration: none;
+    font-size: 12px;
+}
+.menu{
+    position: absolute;
+    width: auto;
+    height: 20px;
+    margin-top: 32px;
+    margin-left: 1600px;
+}
+.fli{
+    float: left;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.ful{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 680px;
+    margin-top: 14px;
+    font-size: 12px;
+}
+.ftxt{
+    color: white;
+    height: 60px;
+}
+.img1txt2{
+    position: absolute;
+    text-align: left;
+    font-size: 20px;
+    margin-top: 600px;
+    margin-left: 200px;
+}
+.img1txt1{
+    position: absolute;
+    text-align: left;
+    font-size: 20px;
+    margin-top: 575px;
+    margin-left: 200px;
+}
+.button1{
+    position: absolute;
+}
+.btn11{
+    width: 160px;
+    height: 55px;
+    background-color:transparent;
+    border: 2px solid white;
+    margin-top: 760px;
+    margin-left: 200px;
+    color: white;
+    font-weight: bold;
+}
+.btn21{
+    width: 160px;
+    height: 55px;
+    background-color:transparent;
+    border: 2px solid white;
+    margin-top: 710px;
+    margin-left: 200px;
+    color: white;
+    font-weight: bold;
+}
